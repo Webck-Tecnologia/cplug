@@ -8852,7 +8852,7 @@ Sticky Menu
 
 .saas_two_main_header .s2-main-navigation .navbar-nav li .active,
 .saas_two_main_header .s2-main-navigation .navbar-nav li a:hover {
-  color: #d10edd;
+  color: #fff;
 }
 
 .saas_two_main_header .s2-main-navigation .navbar-nav li a:hover:before,
@@ -8865,7 +8865,7 @@ Sticky Menu
   position: absolute;
   height: 2px;
   width: 0%;
-  background-color: #d10edd;
+  background-color: #fff;
   left: 2px;
   transition: 0.3s all ease-in-out;
   bottom: 25px;
@@ -8886,7 +8886,7 @@ Sticky Menu
 }
 
 .saas_two_main_header .s2-main-navigation .dropdown:hover:after {
-  color: #d10edd;
+  color: #fff;
 }
 
 .saas_two_main_header .saas_sign_up_btn {
@@ -8897,6 +8897,8 @@ Sticky Menu
   border-radius: 30px;
   background-color: #73299a;
 }
+
+
 
 .saas_two_main_header .saas_sign_up_btn a {
   color: #fff;
@@ -10179,7 +10181,7 @@ Sticky Menu
 }
 
 .s2-copyright a {
-  color: #d772fe;
+  color: #0dcaf0;
 }
 
 @keyframes slide {

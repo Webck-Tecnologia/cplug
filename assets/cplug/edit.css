@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900*display=swap');
+
+.btnc{
+    position: relative;
+    width: 190px;
+    height: 50px;
+    
+    background: #094773;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    padding: 15px;
+    padding-left: 10px;
+}
+
+.btnc span{
+    position: absolute;
+    
+}
